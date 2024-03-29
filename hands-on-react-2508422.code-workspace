@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+  ],
+  "settings": {
+    "explorer.openEditors.visible": 0,
+    "terminal.integrated.fontSize": 18,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.fontAliasing": "antialiased",
+    "workbench.statusBar.visible": true,
+    "liveServer.settings.root": "/docs",
+    "liveServer.settings.donotVerifyTags": true
+  }
+}
