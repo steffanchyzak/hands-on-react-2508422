@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "emmet.syntaxProfiles": {
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+   }
+    }
+  }
+}
